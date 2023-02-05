@@ -1,0 +1,134 @@
+#title {
+  background-color: rgb(220, 255, 232);
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: rgb(0, 0, 0);
+}
+h2 {
+  font-family: 'Libre Baskerville', serif;
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+  font-weight: bold;
+}
+h3 {
+  font-family: 'Tajawal', sans-serif;
+  font-size: 25px;
+  color: rgb(95, 95, 95);
+  text-align: left;
+}
+
+h4 {
+  font-family: 'Tajawal', sans-serif;
+  font-size: 20px;
+}
+
+h5 {
+  font-family: 'Tajawal', sans-serif;
+  font-size: 15px;
+  color:rgb(131, 131, 131);
+}
+
+p {
+  color: #000000;
+  font-family: 'Tajawal', sans-serif;
+  font-size: 23px;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: 'Philosopher';
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+.navbar-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-family: 'Tajawal', sans-serif;
+  font-size: 1.2rem;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.sq-image {
+  padding: 10px;
+  width: 500px;
+}
+
+.grad-image {
+  border-radius: 40px;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: white;
+  z-index: 1;
+  position: relative;
+}
+.work-box {
+  text-align: left;
+  padding: 8% 3% 5% 2%;
+}
+
+.top-box{
+  text-align: right;
+  padding: 0 10% 5% 5%;
+}
+
+.blank-pad{
+  padding: 5%
+}
+
+.image-box{
+  text-align:left;
+  padding-top: 5%;
+  padding-right: 5%; 
+  padding-bottom: 5%; 
+  padding-left: 2%;
+}
+
+.tastytext-box{
+  padding: 10% 5% 5% 10%;
+}
+
+.icon {
+  color: rgb(255, 198, 223);
+}
+.icon:hover {
+  color: rgb(255, 253, 182);
+}
+
+.main{
+  color:rgb(117, 224, 190);
+}
+
+#about {
+  padding: 7% 10%;
+  text-align: center;
+  background-color: rgb(220, 255, 232);
+}
+
+#footer {
+  padding: 7% 15%;
+  text-align: right;
+}
+
+@media (max-width: 1028px){
+
+  #title {
+    text-align: center;
+  }
+}
